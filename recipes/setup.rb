@@ -6,7 +6,7 @@ user "Add a User" do
   username "ibi"
 end
 
-directory "Create a log Directory"
+directory "Create a log Directory" do
   group "root"
   mode "0777"
   owner "ec2-user"
