@@ -1,1 +1,1 @@
-name "Demo App"
+name "DemoApp"
